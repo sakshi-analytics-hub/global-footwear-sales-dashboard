@@ -1,9 +1,11 @@
 👟 Global Footwear Sales Dashboard
 
 📊 Overview
+
 This Power BI project analyzes global sports footwear sales data to identify trends in revenue, customer behavior, product performance, and profitability. The dashboard provides actionable insights to support data-driven business decisions.
 
 🎯 Objectives
+
 📈 Analyze sales performance across regions and time periods
 🏆 Identify top-performing products and categories
 🧑‍💼 Understand customer purchasing patterns
@@ -12,6 +14,7 @@ This Power BI project analyzes global sports footwear sales data to identify tre
 
 
 🛠️ Tools & Technologies
+
 📊 Power BI
 📉 Data Visualization
 🧹 Data Cleaning & Transformation
@@ -19,6 +22,7 @@ This Power BI project analyzes global sports footwear sales data to identify tre
 
 
 🔍 Key Insights
+
 🌍 Sales and revenue trends across different regions and markets
 👟 Identification of high-demand footwear categories and products
 🛍️ Customer behavior patterns based on purchase data
@@ -27,6 +31,7 @@ This Power BI project analyzes global sports footwear sales data to identify tre
 
 
 📌 Dashboard Features
+
 📊 Interactive visualizations (charts, graphs, slicers)
 🌎 Region-wise and product-wise analysis
 🔎 Dynamic filtering for deeper insights
@@ -34,6 +39,7 @@ This Power BI project analyzes global sports footwear sales data to identify tre
 
 
 📁 Project Structure
+
 📂 Dataset (raw data used for analysis)
 📄 Power BI file (.pbix)
 📊 Visual reports and dashboards
